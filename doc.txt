@@ -1,0 +1,2 @@
+1, install sass
+npm i node-sass --save || yarn add node-sass
